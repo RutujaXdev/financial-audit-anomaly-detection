@@ -33,3 +33,5 @@ Benford's Law chi-square test: p < 0.05, meaning the amount distribution deviate
 ## Key Skills Demonstrated
 
 Python, SQL, Power BI, statistical testing (Benford's Law), rule-based exception detection, root-cause analysis, audit analytics, data validation and quality checks.
+<img width="1162" height="671" alt="image" src="https://github.com/user-attachments/assets/60dbfc66-9470-4a2b-a248-016473aa9727" />
+
